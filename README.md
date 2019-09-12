@@ -1,5 +1,5 @@
 # Rant
-Fetches a random rant from <https://devrant.com/feed> and logs it to your console. Something to do whilst I wait for `yarn start` to finish.
+Fetches a random rant from <https://devrant.com/feed> and logs it to your console. Something to do whilst you wait for `yarn start` to finish.
 
 ## Setup and run
 * `yarn | npm i` install dependencies
